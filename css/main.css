@@ -21,3 +21,9 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+h5 {
+    color:white;
+    text-align:center;
+    font-family:verdana;
+}
